@@ -528,7 +528,7 @@ province_abbr <- c(
   Newfoundland = "NL", NovaScotia = "NS", PrinceEdwardIsland = "PE",
   NewBrunswick = "NB", Quebec = "QC", Ontario = "ON", Manitoba = "MB",
   Saskatchewan = "SK", Alberta = "AB", BritishColumbia = "BC",
-  "NorthwestTerritories-Nunavut" = "NT", Yukon = "YT"
+  "NorthwestTerritories-Nunavut" = "NT-NU", Yukon = "YT"
 )
 
 # fn_get_postal_code_data() --------------------------------------------------------
